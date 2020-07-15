@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = 'https://supermarche-chaise-00087.herokuapp.com//questions';
+const USER_API_BASE_URL = 'https://supermarche-chaise-00087.herokuapp.com/questions';
 const API_BASE_URL = 'https://supermarche-chaise-00087.herokuapp.com/';
 
 class ApiService {
