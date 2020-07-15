@@ -12,7 +12,7 @@
 }
 
 .pagination {
-  display: inline-block;
+  display: flex;
   padding-left: 0;
   margin: 22px 0;
   border-radius: 4px;
