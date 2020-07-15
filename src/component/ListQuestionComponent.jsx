@@ -88,7 +88,7 @@ class ListQuestionComponent extends Component {
         let offset = Math.ceil(selected * 10);
     
         this.setState({ offset: offset }, () => {
-            this.reloadUserList(this.state.limit, this.state.offset);
+            this.reloadQuestionList(this.state.limit, this.state.offset);
         });
       };
 
